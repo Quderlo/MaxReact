@@ -6,6 +6,6 @@
 <p>- В терминале перейти в папку DockerDataBase и ввести docker-compose up -d</p>
 
 <p>React server</p>
-  <p>dnf module install nodejs:<stream></p>
-  <p>npm install</p>
-  <p>npm run dev</p>
+  <p>- dnf module install nodejs:<stream></p>
+  <p>- npm install</p>
+  <p>- npm run dev</p>
