@@ -1,4 +1,5 @@
 .idea
 pycache/
 db.sqlite3
-
+kek/__pycache__/
+mysite/__pycache__/
